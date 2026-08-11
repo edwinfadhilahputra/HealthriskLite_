@@ -1,0 +1,6 @@
+<resources>
+    <!-- Pastikan parent bertema MaterialComponents -->
+    <style name="Theme.HealthriskLite" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Pengaturan warna kamu -->
+    </style>
+</resources>

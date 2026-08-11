@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "140932083229",
+    "firebase_url": "https://healthrisk-lite-default-rtdb.firebaseio.com",
+    "project_id": "healthrisk-lite",
+    "storage_bucket": "healthrisk-lite.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140932083229:android:e04caaa3fc26d286f960f4",
+        "android_client_info": {
+          "package_name": "com.example.healthrisklite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140932083229-62uhais7sejvoqgj9lemmv5csv6mb51l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healthrisklite",
+            "certificate_hash": "5293de8b7872c68ab161555dc1382a34677ceddb"
+          }
+        },
+        {
+          "client_id": "140932083229-em6jvkjgv8f877gus4qfv149ho0km5de.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXUkjQJY9-jyDpVgmnYpp9aqHJ518qZJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140932083229-em6jvkjgv8f877gus4qfv149ho0km5de.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

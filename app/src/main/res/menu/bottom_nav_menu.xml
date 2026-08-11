@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@android:drawable/ic_menu_today"
+        android:title="Dashboard" />
+
+    <item
+        android:id="@+id/navigation_input"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Input" />
+
+    <item
+        android:id="@+id/navigation_insight"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:title="Insight" />
+
+    <item
+        android:id="@+id/navigation_riwayat"
+        android:icon="@android:drawable/ic_menu_recent_history"
+        android:title="Riwayat" />
+
+    <item
+        android:id="@+id/navigation_profil"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="Profil" />
+
+</menu>
