@@ -13,7 +13,7 @@
 
 | Dashboard | Input Data | Insight Kesehatan | Profil Pengguna |
 | :---: | :---: | :---: | :---: |
-| *(Isi dengan screenshot Dashboard)* | *(Isi dengan screenshot Input)* | *(Isi dengan screenshot Insight)* | *(Isi dengan screenshot Profil)* |
+| <img src="Documents/screenshots/dashboard.jpeg" width="200"/> | <img src="Documents/screenshots/input.jpeg" width="200"/> | <img src="Documents/screenshots/insight.jpeg" width="200"/> | <img src="Documents/screenshots/profil.jpeg" width="200"/> |
 
 ---
 
