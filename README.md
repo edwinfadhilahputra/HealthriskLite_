@@ -12,7 +12,6 @@
 ## 📸 Tampilan Aplikasi
 
 | Dashboard | Input Data | Insight Kesehatan | Profil Pengguna |
-| :---: | :---: | :---: | :---: |
 | <img width="720" height="1600" alt="dashboard" src="https://github.com/user-attachments/assets/79f1607e-167b-4d3f-8f1d-0af0a0c88324" />
  | <img width="720" height="1600" alt="input" src="https://github.com/user-attachments/assets/c7719383-5e5a-4fbc-ac0a-44af43b2e7a5" />
  | <img width="720" height="1600" alt="insight" src="https://github.com/user-attachments/assets/4fcb36f1-c4c5-4f3c-98be-d59261e4a69e" />
