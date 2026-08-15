@@ -13,7 +13,7 @@
 
 | Dashboard | Input Data | Insight Kesehatan | Profil Pengguna |
 | :---: | :---: | :---: | :---: |
-| <img src="Documents/screenshots/dashboard.jpeg" width="200"/> | <img src="Documents/screenshots/input.jpeg" width="200"/> | <img src="Documents/screenshots/insight.jpeg" width="200"/> | <img src="Documents/screenshots/profil.jpeg" width="200"/> |
+| <img src="C:\Users\Pongo\Documents\screenshots/dashboard.jpeg" width="200"/> | <img src="Documents/screenshots/input.jpeg" width="200"/> | <img src="Documents/screenshots/insight.jpeg" width="200"/> | <img src="Documents/screenshots/profil.jpeg" width="200"/> |
 
 ---
 
